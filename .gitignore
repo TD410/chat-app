@@ -1,0 +1,6 @@
+bin
+*.jar
+*.zip
+.classpath
+.settings
+desktop.ini
